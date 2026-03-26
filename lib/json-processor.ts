@@ -1472,9 +1472,9 @@ export async function processJsonDataAsync(
     
     // Build metadata
     const metadata: Metadata = {
-      market_name: 'Space Ground Station Equipment Market',
+      market_name: 'Global Space Ground Station Equipment Market',
       market_type: 'Market Analysis',
-      industry: 'Healthcare & Pharmaceuticals',
+      industry: 'Aerospace & Defense',
       years: allYears,
       start_year: startYear,
       base_year: baseYear,
